@@ -1,0 +1,14 @@
+<resources>
+<string name="app_name">WheatherActivity</string>
+<string name="send">Wyślij</string>
+<string name="city">City</string>
+<string name="humidity">Humidity</string>
+<string name="cityname">Cityname</string>
+<string name="time">Time</string>
+<string name="temperature">Temperature</string>
+<string name="pressure">Pressure</string>
+<string name="temp_min">Temp min</string>
+<string name="planowany_obrazek_pogodowy">Planowany obrazek pogodowy</string>
+<string name="textview">TextView</string>
+<string name="temp_max">Temp max</string>
+</resources>
